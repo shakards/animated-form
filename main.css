@@ -1,0 +1,323 @@
+body{
+    background-color: black;
+}
+
+.compose{
+    position: absolute;
+    height: 585px;
+    width: 40%;
+    margin-left: 48%;
+    margin-top: 8px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.control{
+    margin-top: 2%;
+    border-radius: 10px;
+    margin-left: 5%;
+    height: 92%;
+    width: 90%;
+    background-color: #ddd;
+}
+
+.control .compose{
+    padding-top: 3%;
+}
+
+.btn{
+    margin-left: 13%;
+    font-family: poppins;
+    font-size: 18px;
+    font-weight: 900;
+    margin-top: 4%;
+    color: white;
+    border-radius: 100px;
+    border: none;
+    height: 35px;
+    width: 22rem;
+    background-color: black ;
+}
+
+
+.btnn{
+    margin-left: 13%;
+    font-family: poppins;
+    font-size: 18px;
+    font-weight: 900;
+    margin-top: 3%;
+    color: black;
+    border-radius: 100px;
+    border: none;
+    height: 35px;
+    width: 22rem;
+    background-color: #ddd;
+}
+.cup{
+    position: absolute;
+    margin-left: -290px;
+    margin-top: 79px;
+    width: 2%;
+    height: 3%;
+}
+
+.control a{
+    text-decoration: none;
+    color: black;
+}
+
+.control a:hover{
+    color: blue;
+}
+ 
+
+.control h1{
+    padding-left: 28%;
+}
+
+.alloy{
+    margin-left: 34%;
+}
+
+.wew{
+    margin-left: 14%;
+}
+ 
+.control input {
+    margin-left: 14%;
+    width: 74%; 
+    outline: none;
+    border: none;
+    border-bottom: 2px solid red;
+}
+
+
+.man{
+    margin-top: 30%;
+    margin-left: 30%;
+}
+
+.boom{
+    margin-left: 14%;
+}
+
+.booom{
+    margin-top: -7.5%;
+    margin-left: 63%;
+}
+
+#eye {
+    margin-top: -15%;
+    margin-left: -34%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    height: 250px;
+    width: 250px;
+    background: white;
+    border-radius: 50%;
+    overflow: hidden;
+    box-shadow: 0 0 30px 1px #222236ad;
+}
+
+#eyeBall {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    height: 70px;
+    width: 70px;
+    transform: translate(-50%, -50%);
+    background: black;
+    border-radius: 50%;
+    transition: 0;
+}
+
+#rec{
+    border-top-right-radius: 100px;
+    border-top-left-radius: 100px;
+    margin-left: 10%;
+    margin-top: -39.5%;
+    background-color: purple;
+    height: 500px;
+    width: 250px;
+    box-shadow: 0 0 30px 1px #222236ad;
+    display: flex;
+    flex-direction: row;
+}
+
+#Shape{
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    margin-left:18%;
+    margin-top: 17%;
+}
+
+#shape1{
+    background-color: black;
+    height: 40px;
+    width: 40px;
+    border-radius: 100px;
+    margin-left: 32%;
+    margin-top: 17%;
+}
+
+#comb{
+    background-color: white;
+    height: 10px;
+    width: 10px;
+    border-radius: 100px;
+    margin-top: 23%;
+    margin-left: -10%;
+}
+
+#comb1{
+    background-color: white;
+    height: 10px;
+    width: 10px;
+    border-radius: 100px;
+    margin-top: 23%;
+    margin-left: -52%;
+}
+
+
+#warn{
+    border-top-right-radius: 350px;
+    border-top-left-radius: 350px;
+    margin-left: 5%;
+    margin-top: -13.5%;
+    background-color: coral;
+    height: 170px;
+    width: 300px;
+    box-shadow: 0 0 30px 1px #222236ad;
+    display: flex;
+    flex-direction: row;
+}
+
+#what{
+    background-color: black;
+    height: 15px;
+    width: 15px;
+    border-radius: 100px;
+    margin-left:32%;
+    margin-top: 14%;
+}
+
+#what1{
+    background-color: black;
+    height: 15px;
+    width: 15px;
+    border-radius: 100px;
+    position: absolute;
+    margin-left: 14%;
+    margin-top: 3.32%;
+}
+
+hr{
+    margin-left: 10%;
+    margin-top: 45px;
+    border: none;
+    outline: none;
+    transform: rotate(90deg);
+    width: 7px;
+    height: 80px;
+    background-color: black;
+}
+
+#jump{
+    border-top-right-radius: 200px;
+    border-top-left-radius: 200px;
+    margin-left: 36%;
+    margin-top: -21.5%;
+    background-color:  yellow;
+    height: 270px;
+    width: 210px;
+    box-shadow: 0 0 30px 1px #222236ad;
+    display: flex;
+    flex-direction: row;
+}
+
+#jar{
+    background-color: black;
+    height: 15px;
+    width: 15px;
+    border-radius: 100px;
+    margin-top: 23%;
+    margin-left: 30%;
+}
+
+#jar1{
+    background-color: black;
+    height: 15px;
+    width: 15px;
+    border-radius: 100px;
+    margin-top: 23%;
+    margin-left: 25%;
+}
+
+#jar2{
+    background-color: black;
+    height: 25px;
+    width: 30px;
+    border-bottom-left-radius: 200%;
+    border-bottom-right-radius: 200%;
+    margin-top: 35%;
+    margin-left: -25%;
+}
+
+
+#bec{
+    margin-left: 27%;
+    margin-top: -27.5%;
+    background-color: black;
+    height: 350px;
+    width: 220px;
+    box-shadow: 0 0 30px 1px #222236ad;
+    display: flex;
+    flex-direction: row;
+}
+
+#sharp{
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+    margin-left:18%;
+    margin-top: 17%;
+}
+
+#sharp1{
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 100px;
+    margin-left: 32%;
+    margin-top: 17%;
+}
+
+#womb{
+    background-color: black;
+    height: 10px;
+    width: 10px;
+    border-radius: 100px;
+    margin-top: 21%;
+    margin-left: -9%;
+}
+
+#womb1{
+    background-color: black;
+    height: 10px;
+    width: 10px;
+    border-radius: 100px;
+    margin-top: 21%;
+    margin-left: -50%;
+} 
+
+.toggle-password {
+    margin-left: -5%;
+}
+
+
+ 
